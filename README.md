@@ -152,4 +152,4 @@ Development of a model for determining the age based on photo 😐 using `Keras`
  And also some creative coding/generative design projects 🔥🔥
 </blockquote>
 
-<br><br>
+<br>
