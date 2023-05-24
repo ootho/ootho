@@ -93,7 +93,7 @@ Development of a model for determining the age based on photo 😐 using `Keras`
 
 <blockquote>
 
-[**yp_taxi_order_predictions**](https://github.com/ootho/data_science/tree/main/yp_taxi_orders_prediction)
+[**yp_taxi_order_predictions**](https://github.com/ootho/data_science/blob/main/yp_taxi_orders_prediction/taxi_orders_prediction.ipynb)
 🚖 To attract more drivers during peak demand, a taxi order forecasting model is developed using historical data on taxi orders at airports to predict the number of taxi orders for the next hour.
 </blockquote>
 
