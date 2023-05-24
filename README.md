@@ -131,12 +131,7 @@ Development of a model for determining the age based on photo 😐 using `Keras`
  🏡 We have access to the archive of real estate listings for the sale of apartments in St. Petersburg and neighboring areas over several years. The goal of the study is to determine the market value of real estate properties.
 </blockquote>
 
-
-
-
-
 <br>
-
 
 <h1>💾 Web and other projects</h1>
 
@@ -151,5 +146,3 @@ Development of a model for determining the age based on photo 😐 using `Keras`
 [**my_behance**](https://www.behance.net/daniildanilov)
  And also some creative coding/generative design projects 🔥🔥
 </blockquote>
-
-<br>
