@@ -15,8 +15,8 @@ Hi there my dear data fellows 🔥
 
 <h1> 📫 Contacts </h1>
 
-- [Telegram]("https://t.me/ddanilov0")    
-- [arch.danilov@gmail.com]("arch.danilov@gmail.com")
+- [Telegram](https://t.me/ddanilov0) 
+- [arch.danilov@gmail.com](arch.danilov@gmail.com)
 
 <br>
 
