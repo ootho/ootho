@@ -27,7 +27,6 @@ Hi there my dear data fellows 🔥
 <h1>🔧 My tech skills</h1>
 <!-- flat-square -->
 
-<dd>
 <p align="left">
 <img src="https://img.shields.io/badge/Numpy-darkblue.svg?style=for-the-badge&logo=numpy&logoColor=darkviolet&color=0d1117" />
 <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=darkblue&color=0d1117" />
@@ -48,73 +47,90 @@ Hi there my dear data fellows 🔥
   <img src="https://img.shields.io/badge/bash-%23000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=0d1117" />
 <img src="https://img.shields.io/badge/-VBA-greendark?style=for-the-badge&logoColor=white&color=0d1117" />
 </p>
-</dd>
-
-<br>
-
 
 
 <br>
+
 
 <h1>🔬 Data Science</h1>
 
-## <dd>[**btc_price_prediction (WIP)**](https://github.com/ootho/btc_timeseries_analysis/blob/master/price_prediction.ipynb)
-<dd>📈 Predicting the price of Bitcoin for the next day using a multivariate model. `LSTM` + 🔥PyTorch 
-</dd></dd><br>
 
-## <dd>[**yp_bank_churn**](https://github.com/ootho/data_science/blob/main/yp_bank_churn/bank_churn.ipynb)
-<dd>💳 Prediction customer attrition in a bank using historical data on customer behavior and contract terminations.
-</dd></dd><br>
+<blockquote>
 
-## <dd>[**yp_auto_price**](https://github.com/ootho/data_science/blob/main/yp_auto_price_prediction/auto_price.ipynb)
-<dd>🚗 Developing of model for a used car marketplace that provides quick market value estimation based on historical data of cars e.g. technical specifications, configurations, and prices.
-</dd></dd><br>
+[**btc_price_prediction (WIP)**](https://github.com/ootho/btc_timeseries_analysis/blob/master/price_prediction.ipynb) 
+📈 Predicting the price of Bitcoin for the next day using `LSTM` + 🔥PyTorch 
+</blockquote>
 
-## <dd>[**yp_gold_recovering**](https://github.com/ootho/data_science/blob/main/yp_gold_recovering/gold_recovering.ipynb)
-<dd>🧈 The model predicts the gold recovery coefficient from gold-bearing ore to optimize production and avoid operating with unfavorable characteristics.
-</dd></dd><br>
+<blockquote>
 
-## <dd>[**yp_face_age_recognition**](https://github.com/ootho/data_science/blob/main/yp_face_age_recognition_keras/face_age_recognition_keras.ipynb)
-<dd>Development of a model for determining the age from a photo 😐 using `Keras`.
-</dd></dd><br>
+[**yp_bank_churn**](https://github.com/ootho/data_science/blob/main/yp_bank_churn/bank_churn.ipynb)
+💳 Prediction customer churn in a bank using historical data on customer behavior and contract terminations.
+</blockquote>
 
-## <dd>[**yp_mobile_recomender**](https://github.com/ootho/data_science/blob/main/yp_mobile_recomender/mobile_recomender.ipynb)
-<dd> It is necessary to conduct a preliminary analysis of mobile operator tariffs on a small sample of customers and analyze which tariff is more promising for the operator. Additionally, a model should be built to recommend users a specific tariff.
-</dd></dd><br>
+<blockquote>
 
-## <dd>[**yp_taxi_order_predictions**](https://github.com/ootho/data_science/tree/main/yp_taxi_orders_prediction)
-<dd>🚖 To attract more drivers during peak demand, a taxi order forecasting model is developed using historical data on taxi orders at airports to predict the number of taxi orders for the next hour.
-</dd></dd><br>
+[**yp_auto_price**](https://github.com/ootho/data_science/blob/main/yp_auto_price_prediction/auto_price.ipynb)
+🚗 Developing of model for a used car marketplace that provides quick market value estimation based on historical data of cars e.g. technical specifications, configurations, and prices.
+</blockquote>
 
-## <dd>[**yp_toxic_comments**](https://github.com/ootho/data_science/blob/main/yp_toxic_comments/toxic_comments.ipynb)
-<dd> Detecting the toxicity of comments using classical machine learning and 🤗`toxic-BERT` implemented in 🔥PyTorch.
-</dd></dd><br>
+<blockquote>
 
-## <dd>[**yp_well_location**](https://github.com/ootho/data_science/blob/main/yp_well_location/well_location.ipynb)
-<dd> It is necessary to build a ML model that will help determine the region where extraction of oil will yield the highest profit, taking into account risk assessment.
-</dd></dd>
+[**yp_gold_recovering**](https://github.com/ootho/data_science/blob/main/yp_gold_recovering/gold_recovering.ipynb)
+🧈 The model predicts the gold recovery coefficient from gold-bearing ore to optimize production and avoid operating with unfavorable characteristics.
+</blockquote>
 
+<blockquote>
 
+[**yp_face_age_recognition**](https://github.com/ootho/data_science/blob/main/yp_face_age_recognition_keras/face_age_recognition_keras.ipynb)
+Development of a model for determining the age based on photo 😐 using `Keras`.
+</blockquote>
+
+<blockquote>
+
+[**yp_mobile_recomender**](https://github.com/ootho/data_science/blob/main/yp_mobile_recomender/mobile_recomender.ipynb)
+ Development of the model that should recommend users some mobile tariff based on their behaviour during last months.
+</blockquote>
+
+<blockquote>
+
+[**yp_taxi_order_predictions**](https://github.com/ootho/data_science/tree/main/yp_taxi_orders_prediction)
+🚖 To attract more drivers during peak demand, a taxi order forecasting model is developed using historical data on taxi orders at airports to predict the number of taxi orders for the next hour.
+</blockquote>
+
+<blockquote>
+
+[**yp_toxic_comments**](https://github.com/ootho/data_science/blob/main/yp_toxic_comments/toxic_comments.ipynb)
+ Detecting the toxicity of comments using classical machine learning and 🤗`toxic-BERT` implemented in 🔥PyTorch.
+</blockquote>
+
+<blockquote>
+
+[**yp_well_location**](https://github.com/ootho/data_science/blob/main/yp_well_location/well_location.ipynb)
+ Aim of project is to build a ML model that will help determine the region where extraction of oil will yield the highest profit, taking into account risk assessment.
+</blockquote>
 <br>
 
-
-
-<br>
 
 <h1>🔭 Data Analysis</h1>
 
+<blockquote>
 
-## <dd>[**yp_borrower_evaluation**](https://github.com/ootho/data_analysis/blob/main/yp_borrower_evaluation/yp_borrower_evaluation.ipynb)
-<dd> Researching the creditworthiness of bank borrowers and identifying key criteria for building a scoring model.
-</dd></dd><br>
+[**yp_borrower_evaluation**](https://github.com/ootho/data_analysis/blob/main/yp_borrower_evaluation/yp_borrower_evaluation.ipynb)
+ Researching the creditworthiness of bank borrowers and identifying key criteria for building a scoring model.
+</blockquote>
 
-## <dd>[**yp_game_analysis**](https://github.com/ootho/data_analysis/blob/main/yp_game_analysis/game_analysis.ipynb)
-<dd> 🎮 Based on historical data on game sales, user and expert ratings, and other features, it is necessary to identify patterns that determine the success of a game. This will allow making bets on potentially popular products and planning an advertising campaign for the next year.
-</dd></dd><br>
+<blockquote>
 
-## <dd>[**yp_    real_estate**](https://github.com/ootho/data_analysis/blob/main/yp_real_estate/real_estate.ipynb)
-<dd> 🏡 We have access to the archive of real estate listings for the sale of apartments in St. Petersburg and neighboring areas over several years. The goal of the study is to determine the market value of real estate properties.
-</dd></dd><br>
+[**yp_game_analysis**](https://github.com/ootho/data_analysis/blob/main/yp_game_analysis/game_analysis.ipynb)
+ 🎮 Based on historical data on game sales, user and expert ratings, and other features, it is necessary to identify patterns that determine the success of a game. This will allow making bets on potentially popular products and planning an advertising campaign for the next year.
+</blockquote>
+
+<blockquote>
+
+[**yp_    real_estate**](https://github.com/ootho/data_analysis/blob/main/yp_real_estate/real_estate.ipynb)
+ 🏡 We have access to the archive of real estate listings for the sale of apartments in St. Petersburg and neighboring areas over several years. The goal of the study is to determine the market value of real estate properties.
+</blockquote>
+
 
 
 
@@ -124,11 +140,16 @@ Hi there my dear data fellows 🔥
 
 <h1>💾 Web and other projects</h1>
 
+<blockquote>
 
-## <dd>[**synapsenet_parser**](https://github.com/ootho/synapsenet_to_excel)
-<dd> Parser on a `Flask` that works by requests and collect all results into `.xlsx` file.
-</dd></dd><br>
+[**synapsenet_parser**](https://github.com/ootho/synapsenet_to_excel)
+ Parser on a `Flask` that works by requests and collect all results into `.xlsx` file.
+</blockquote>
 
-## <dd>[**my_behance**](https://www.behance.net/daniildanilov)
-<dd> And also some creative coding/generative design projects 🔥🔥
-</dd></dd><br>
+<blockquote>
+
+[**my_behance**](https://www.behance.net/daniildanilov)
+ And also some creative coding/generative design projects 🔥🔥
+</blockquote>
+
+<br><br>
