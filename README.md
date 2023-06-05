@@ -62,11 +62,11 @@ Hi there my dear data fellows 🔥
 </blockquote>
 
 <blockquote>
-
-[**yp_bank_churn**](https://github.com/ootho/data_science/blob/main/yp_bank_churn/bank_churn.ipynb)
-💳 Предсказание оттока клиентов из банка на основе исторических данных о поведении клиента и расторжении договоров.
+  
+[**yp_telecom**](https://github.com/ootho/data_science/tree/main/yp_telecom)
+📞 Предсказание оттока клиентов от провайдера связи.  
 </blockquote>
-
+  
 <blockquote>
 
 [**yp_auto_price**](https://github.com/ootho/data_science/blob/main/yp_auto_price_prediction/auto_price.ipynb)
@@ -77,6 +77,12 @@ Hi there my dear data fellows 🔥
 
 [**yp_gold_recovering**](https://github.com/ootho/data_science/blob/main/yp_gold_recovering/gold_recovering.ipynb)
 🧈 Разработка модели, которая предсказывает долю восстановление золота из руды, помогает оптимизировать производство и избежать убытков. 
+</blockquote>
+  
+<blockquote>
+
+[**yp_bank_churn**](https://github.com/ootho/data_science/blob/main/yp_bank_churn/bank_churn.ipynb)
+💳 Предсказание оттока клиентов из банка на основе исторических данных о поведении клиента и расторжении договоров.
 </blockquote>
 
 <blockquote>
