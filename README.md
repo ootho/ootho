@@ -57,8 +57,8 @@ Hi there my dear data fellows 🔥
 
 <blockquote>
 
-[**btc_price_prediction (WIP)**](https://github.com/ootho/btc_timeseries_analysis/blob/master/price_prediction.ipynb) 
-📈 Предсказание цены биткоина на следующий день с использованием `LSTM` + 🔥PyTorch 
+[**btc_timeseries_analysis (WIP)**](https://github.com/ootho/btc_timeseries_analysis/blob/master/price_prediction.ipynb) 
+📈 Анализ цикличности биткоина на основе данных о намайненых блоках.
 </blockquote>
 
 <blockquote>
