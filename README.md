@@ -13,7 +13,7 @@ Hi there my dear data fellows 🔥
 
 
 
-<h1> 📫 Контакты </h1>
+<h1> 📫 Contacts </h1>
 
 - [Telegram](https://t.me/ddanilov0)    
 - [arch.danilov@gmail.com](arch.danilov@gmail.com)
@@ -24,7 +24,7 @@ Hi there my dear data fellows 🔥
 
 <br>
 
-<h1>🔧 Мои технические навыки</h1>
+<h1>🔧 My tech skills</h1>
 <!-- flat-square -->
 
 <p align="left">
@@ -54,108 +54,104 @@ Hi there my dear data fellows 🔥
 
 <h1>🔬 Data Science</h1>
 
-
 <blockquote>
 
 [**btc_halving_cycles**](https://github.com/ootho/crypto_forecasting/tree/master/features/halving_cycles) 
-📈 Анализ циклов биткоина на основе данных о намайненых блоках.
+📈 Bitcoin cycle analysis based on mined block data.
 </blockquote>
 
 <blockquote>
   
 [**yp_telecom**](https://github.com/ootho/data_science/tree/main/yp_telecom)
-📞 Предсказание оттока клиентов от провайдера связи.  
+📞 Predicting customer churn for a telecommunications provider.  
 </blockquote>
   
 <blockquote>
 
 [**yp_auto_price**](https://github.com/ootho/data_science/blob/main/yp_auto_price_prediction/auto_price.ipynb)
-🚗 Разработка модели для площадки продажи б/у автомобилей, которая будет оценивать авто на основе данных об их техническом состоянии, типе кузова, марке и других характеристик.
+🚗 Developing a model for a used car platform that estimates car values based on their technical condition, body type, brand, and other characteristics.
 </blockquote>
 
 <blockquote>
 
 [**yp_gold_recovering**](https://github.com/ootho/data_science/blob/main/yp_gold_recovering/gold_recovering.ipynb)
-🧈 Разработка модели, которая предсказывает долю восстановление золота из руды, помогает оптимизировать производство и избежать убытков. 
+🧈 Developing a model that predicts gold recovery rates from ore, helping optimize production and avoid losses. 
 </blockquote>
   
 <blockquote>
 
 [**yp_bank_churn**](https://github.com/ootho/data_science/blob/main/yp_bank_churn/bank_churn.ipynb)
-💳 Предсказание оттока клиентов из банка на основе исторических данных о поведении клиента и расторжении договоров.
+💳 Predicting customer churn in a bank based on historical customer behavior and contract terminations.
 </blockquote>
 
 <blockquote>
 
 [**yp_face_age_recognition**](https://github.com/ootho/data_science/blob/main/yp_face_age_recognition_keras/face_age_recognition_keras.ipynb)
-Разработка модели, которая определяет возраст человека по фотографии 😐 с использованием `Keras`.
+Developing a model that determines a person's age from a photograph 😐 using `Keras`.
 </blockquote>
 
 <blockquote>
 
 [**yp_mobile_recomender**](https://github.com/ootho/data_science/blob/main/yp_mobile_recomender/mobile_recomender.ipynb)
- Разработка модели, которая рекомендует тариф мобильной связи на основе поведения пользователя за последний месяц.
+Developing a model that recommends mobile phone plans based on user behavior in the last month.
 </blockquote>
 
 <blockquote>
 
 [**yp_taxi_order_predictions**](https://github.com/ootho/data_science/blob/main/yp_taxi_orders_prediction/taxi_orders_prediction.ipynb)
-🚖 Чтобы привлечь достаточное количество водителей в часы пиковых нагрузок разработана модель машинного обучения, которая предсказывает число заказов на следующий час в районе аэропорта.
+🚖 To attract enough drivers during peak hours, a machine learning model is developed to predict the number of taxi orders in the airport area for the next hour.
 </blockquote>
 
 <blockquote>
 
 [**yp_toxic_comments**](https://github.com/ootho/data_science/blob/main/yp_toxic_comments/toxic_comments.ipynb)
- Определение токсичности комментариев с использованием классических моделей машинного обучения и 🤗`toxic-BERT` в реализации 🔥PyTorch.
+Identifying toxic comments using classical machine learning models and 🤗`toxic-BERT` implemented in 🔥PyTorch.
 </blockquote>
 
 <blockquote>
 
 [**yp_well_location**](https://github.com/ootho/data_science/blob/main/yp_well_location/well_location.ipynb)
- Цель проекта - построить ML модель, которая, на основе данных о пробах сырья, поможет определить регион для разработки нефтяного месторождения с учётом рисков.
+The goal of the project is to build an ML model that, based on raw material samples, helps determine the region for oil field development, taking into account risks.
 </blockquote>
 <br>
 
-
-<h1>🔭 Анализ данных</h1>
+<h1>🔭 Data Analysis</h1>
 
 <blockquote>
 
 [**yp_borrower_evaluation**](https://github.com/ootho/data_analysis/blob/main/yp_borrower_evaluation/yp_borrower_evaluation.ipynb)
- Исследование платёжеспособности кредиторов банка и определение критериев для построения скоринговой модели.
+Analysis of bank borrowers' creditworthiness and identification of criteria for building a scoring model.
 </blockquote>
 
 <blockquote>
 
 [**yp_game_analysis**](https://github.com/ootho/data_analysis/blob/main/yp_game_analysis/game_analysis.ipynb)
- 🎮 На основе исторических данных по продажам игр, оценок пользователей и экспертов, а также других признаков необходимо определить паттерны определяющие успех игры. Это позволит сделать ставку на потенциально популярные продукты и спрогнозировать рекламную компанию на следующий год.
+🎮 Based on historical data on game sales, user and expert ratings, and other features, identify patterns that determine game success. This will help make bets on potentially popular products and forecast next year's advertising campaign.
 </blockquote>
 
 <blockquote>
 
-[**yp_    real_estate**](https://github.com/ootho/data_analysis/blob/main/yp_real_estate/real_estate.ipynb)
- 🏡 Цель проекта - используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир.
+[**yp_real_estate**](https://github.com/ootho/data_analysis/blob/main/yp_real_estate/real_estate.ipynb)
+🏡 The goal of the project is to determine the market value of real estate objects and typical parameters of apartments using data from the Yandex.Real Estate service.
 </blockquote>
-
-
-
 
 
 <br>
 
 
-<h1>💾 Веб и другие проекты</h1>
+<h1>💾 Web and Other Projects</h1>
 
 <blockquote>
 
 [**synapsenet_parser**](https://github.com/ootho/synapsenet_to_excel)
- Парсер на `Flask` который работает по запросу и собирает данные`.xlsx` таблицу.
+A `Flask` parser that works on request and collects data in `.xlsx` format.
 </blockquote>
 
 <blockquote>
 
 [**my_behance**](https://www.behance.net/daniildanilov)
- И ещё несколько проектов в жанре генеративного искусства/дизайна 🔥🔥
+And several more projects in the genre of generative art/design 🔥🔥
 </blockquote>
 
 <br>
+
