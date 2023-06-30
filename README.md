@@ -62,55 +62,55 @@ Hi there my dear data fellows 🔥
 
 <blockquote>
   
-[**yp_telecom**](https://github.com/ootho/data_science/tree/main/yp_telecom/)
+[**telecom**](https://github.com/ootho/data_science/tree/main/telecom/)
 📞 Predicting customer churn for a telecommunications provider.  
 </blockquote>
   
 <blockquote>
 
-[**yp_auto_price**](https://github.com/ootho/data_science/blob/main/yp_auto_price_prediction/)
+[**auto_price**](https://github.com/ootho/data_science/blob/main/auto_price_prediction/)
 🚗 Developing a model for a used car platform that estimates car values based on their technical condition, body type, brand, and other characteristics.
 </blockquote>
 
 <blockquote>
 
-[**yp_gold_recovering**](https://github.com/ootho/data_science/blob/main/yp_gold_recovering/)
+[**gold_recovering**](https://github.com/ootho/data_science/blob/main/gold_recovering/)
 🧈 Developing a model that predicts gold recovery rates from ore, helping optimize production and avoid losses. 
 </blockquote>
   
 <blockquote>
 
-[**yp_bank_churn**](https://github.com/ootho/data_science/blob/main/yp_bank_churn/)
+[**bank_churn**](https://github.com/ootho/data_science/blob/main/bank_churn/)
 💳 Predicting customer churn in a bank based on historical customer behavior and contract terminations.
 </blockquote>
 
 <blockquote>
 
-[**yp_face_age_recognition**](https://github.com/ootho/data_science/blob/main/yp_face_age_recognition_keras/)
+[**face_age_recognition**](https://github.com/ootho/data_science/blob/main/face_age_recognition_keras/)
 Developing a model that determines a person's age from a photograph 😐 using `Keras`.
 </blockquote>
 
 <blockquote>
 
-[**yp_mobile_recomender**](https://github.com/ootho/data_science/blob/main/yp_mobile_recomender/)
+[**mobile_recomender**](https://github.com/ootho/data_science/blob/main/mobile_recomender/)
 Developing a model that recommends mobile phone plans based on user behavior in the last month.
 </blockquote>
 
 <blockquote>
 
-[**yp_taxi_order_predictions**](https://github.com/ootho/data_science/blob/main/yp_taxi_orders_prediction/)
+[**taxi_order_predictions**](https://github.com/ootho/data_science/blob/main/taxi_orders_prediction/)
 🚖 To attract enough drivers during peak hours, a machine learning model is developed to predict the number of taxi orders in the airport area for the next hour.
 </blockquote>
 
 <blockquote>
 
-[**yp_toxic_comments**](https://github.com/ootho/data_science/blob/main/yp_toxic_comments/)
+[**toxic_comments**](https://github.com/ootho/data_science/blob/main/toxic_comments/)
 Identifying toxic comments using classical machine learning models and 🤗`toxic-BERT` implemented in 🔥PyTorch.
 </blockquote>
 
 <blockquote>
 
-[**yp_well_location**](https://github.com/ootho/data_science/blob/main/yp_well_location/)
+[**well_location**](https://github.com/ootho/data_science/blob/main/well_location/)
 The goal of the project is to build an ML model that, based on raw material samples, helps determine the region for oil field development, taking into account risks.
 </blockquote>
 <br>
@@ -119,19 +119,19 @@ The goal of the project is to build an ML model that, based on raw material samp
 
 <blockquote>
 
-[**yp_borrower_evaluation**](https://github.com/ootho/data_analysis/blob/main/yp_borrower_evaluation/)
+[**borrower_evaluation**](https://github.com/ootho/data_analysis/blob/main/borrower_evaluation/)
 Analysis of bank borrowers' creditworthiness and identification of criteria for building a scoring model.
 </blockquote>
 
 <blockquote>
 
-[**yp_game_analysis**](https://github.com/ootho/data_analysis/blob/main/yp_game_analysis/)
+[**game_analysis**](https://github.com/ootho/data_analysis/blob/main/game_analysis/)
 🎮 Based on historical data on game sales, user and expert ratings, and other features, identify patterns that determine game success. This will help make bets on potentially popular products and forecast next year's advertising campaign.
 </blockquote>
 
 <blockquote>
 
-[**yp_real_estate**](https://github.com/ootho/data_analysis/blob/main/yp_real_estate/)
+[**real_estate**](https://github.com/ootho/data_analysis/blob/main/real_estate/)
 🏡 The goal of the project is to determine the market value of real estate objects and typical parameters of apartments using data from the Yandex.Real Estate service.
 </blockquote>
 
