@@ -43,8 +43,8 @@ Hi there my dear data fellows 🔥
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=orangered&color=0d1117" />
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=%23D00000&color=0d1117" />
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=%23D00000&color=0d1117" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&color=0d1117" />
-  <img src="https://img.shields.io/badge/bash-%23000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=0d1117" />
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&color=0d1117" />
+<img src="https://img.shields.io/badge/bash-%23000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=0d1117" />
 <img src="https://img.shields.io/badge/-VBA-greendark?style=for-the-badge&logoColor=white&color=0d1117" />
 </p>
 
@@ -62,55 +62,55 @@ Hi there my dear data fellows 🔥
 
 <blockquote>
   
-[**yp_telecom**](https://github.com/ootho/data_science/tree/main/yp_telecom)
+[**yp_telecom**](https://github.com/ootho/data_science/tree/main/yp_telecom/)
 📞 Predicting customer churn for a telecommunications provider.  
 </blockquote>
   
 <blockquote>
 
-[**yp_auto_price**](https://github.com/ootho/data_science/blob/main/yp_auto_price_prediction/auto_price.ipynb)
+[**yp_auto_price**](https://github.com/ootho/data_science/blob/main/yp_auto_price_prediction/)
 🚗 Developing a model for a used car platform that estimates car values based on their technical condition, body type, brand, and other characteristics.
 </blockquote>
 
 <blockquote>
 
-[**yp_gold_recovering**](https://github.com/ootho/data_science/blob/main/yp_gold_recovering/gold_recovering.ipynb)
+[**yp_gold_recovering**](https://github.com/ootho/data_science/blob/main/yp_gold_recovering/)
 🧈 Developing a model that predicts gold recovery rates from ore, helping optimize production and avoid losses. 
 </blockquote>
   
 <blockquote>
 
-[**yp_bank_churn**](https://github.com/ootho/data_science/blob/main/yp_bank_churn/bank_churn.ipynb)
+[**yp_bank_churn**](https://github.com/ootho/data_science/blob/main/yp_bank_churn/)
 💳 Predicting customer churn in a bank based on historical customer behavior and contract terminations.
 </blockquote>
 
 <blockquote>
 
-[**yp_face_age_recognition**](https://github.com/ootho/data_science/blob/main/yp_face_age_recognition_keras/face_age_recognition_keras.ipynb)
+[**yp_face_age_recognition**](https://github.com/ootho/data_science/blob/main/yp_face_age_recognition_keras/)
 Developing a model that determines a person's age from a photograph 😐 using `Keras`.
 </blockquote>
 
 <blockquote>
 
-[**yp_mobile_recomender**](https://github.com/ootho/data_science/blob/main/yp_mobile_recomender/mobile_recomender.ipynb)
+[**yp_mobile_recomender**](https://github.com/ootho/data_science/blob/main/yp_mobile_recomender/)
 Developing a model that recommends mobile phone plans based on user behavior in the last month.
 </blockquote>
 
 <blockquote>
 
-[**yp_taxi_order_predictions**](https://github.com/ootho/data_science/blob/main/yp_taxi_orders_prediction/taxi_orders_prediction.ipynb)
+[**yp_taxi_order_predictions**](https://github.com/ootho/data_science/blob/main/yp_taxi_orders_prediction/)
 🚖 To attract enough drivers during peak hours, a machine learning model is developed to predict the number of taxi orders in the airport area for the next hour.
 </blockquote>
 
 <blockquote>
 
-[**yp_toxic_comments**](https://github.com/ootho/data_science/blob/main/yp_toxic_comments/toxic_comments.ipynb)
+[**yp_toxic_comments**](https://github.com/ootho/data_science/blob/main/yp_toxic_comments/)
 Identifying toxic comments using classical machine learning models and 🤗`toxic-BERT` implemented in 🔥PyTorch.
 </blockquote>
 
 <blockquote>
 
-[**yp_well_location**](https://github.com/ootho/data_science/blob/main/yp_well_location/well_location.ipynb)
+[**yp_well_location**](https://github.com/ootho/data_science/blob/main/yp_well_location/)
 The goal of the project is to build an ML model that, based on raw material samples, helps determine the region for oil field development, taking into account risks.
 </blockquote>
 <br>
@@ -119,19 +119,19 @@ The goal of the project is to build an ML model that, based on raw material samp
 
 <blockquote>
 
-[**yp_borrower_evaluation**](https://github.com/ootho/data_analysis/blob/main/yp_borrower_evaluation/yp_borrower_evaluation.ipynb)
+[**yp_borrower_evaluation**](https://github.com/ootho/data_analysis/blob/main/yp_borrower_evaluation/)
 Analysis of bank borrowers' creditworthiness and identification of criteria for building a scoring model.
 </blockquote>
 
 <blockquote>
 
-[**yp_game_analysis**](https://github.com/ootho/data_analysis/blob/main/yp_game_analysis/game_analysis.ipynb)
+[**yp_game_analysis**](https://github.com/ootho/data_analysis/blob/main/yp_game_analysis/)
 🎮 Based on historical data on game sales, user and expert ratings, and other features, identify patterns that determine game success. This will help make bets on potentially popular products and forecast next year's advertising campaign.
 </blockquote>
 
 <blockquote>
 
-[**yp_real_estate**](https://github.com/ootho/data_analysis/blob/main/yp_real_estate/real_estate.ipynb)
+[**yp_real_estate**](https://github.com/ootho/data_analysis/blob/main/yp_real_estate/)
 🏡 The goal of the project is to determine the market value of real estate objects and typical parameters of apartments using data from the Yandex.Real Estate service.
 </blockquote>
 
@@ -143,7 +143,7 @@ Analysis of bank borrowers' creditworthiness and identification of criteria for 
 
 <blockquote>
 
-[**synapsenet_parser**](https://github.com/ootho/synapsenet_to_excel)
+[**synapsenet_parser**](https://github.com/ootho/synapsenet_to_excel/)
 A `Flask` parser that works on request and collects data in `.xlsx` format.
 </blockquote>
 
