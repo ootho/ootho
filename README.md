@@ -62,13 +62,13 @@ Hi there my dear data fellows 🔥
 
 <blockquote>
   
-[**telecom**](https://github.com/ootho/data_science/tree/main/telecom/)
+[**telecom_churn**](https://github.com/ootho/data_science/tree/main/telecom_churn/)
 📞 Predicting customer churn for a telecommunications provider.  
 </blockquote>
   
 <blockquote>
 
-[**auto_price**](https://github.com/ootho/data_science/blob/main/auto_price_prediction/)
+[**estimating_car_price**](https://github.com/ootho/data_science/blob/main/estimating_car_price/)
 🚗 Developing a model for a used car platform that estimates car values based on their technical condition, body type, brand, and other characteristics.
 </blockquote>
 
@@ -98,8 +98,8 @@ Developing a model that recommends mobile phone plans based on user behavior in 
 
 <blockquote>
 
-[**taxi_order_predictions**](https://github.com/ootho/data_science/blob/main/taxi_orders_prediction/)
-🚖 To attract enough drivers during peak hours, a machine learning model is developed to predict the number of taxi orders in the airport area for the next hour.
+[**taxi_demand_forecasting**](https://github.com/ootho/data_science/blob/main/taxi_demand_forecasting/)
+🚖 To attract enough drivers during peak hours, a machine learning model is developed to forecast the number of taxi orders in the airport area for the next hour.
 </blockquote>
 
 <blockquote>
